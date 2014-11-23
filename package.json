@@ -1,0 +1,10 @@
+{
+  "name": "Tessel_Hackathon",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+  	"tessel": "~0.3.18",
+    "rf-nrf24": "~0.8.5",
+    "accel-mma84": "~0.2.3"
+  }
+}
